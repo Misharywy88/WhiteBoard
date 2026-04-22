@@ -1,0 +1,23 @@
+Ahmed Sadiq Alghannam - 2230003473
+Ali Waleed Alhashim - 2230004042
+Abdulrahman Bushihab - 2230004493
+Ali Khaled Ali Albinali - 2230003813
+Mishary Waleed Al Awadh - 2230006217
+
+The White Board
+
+Welcome to The White Board, a cutting-edge Electronic Learning Management System (ELMS) designed to enhance
+the learning experience for both students and faculty. Our platform aims to bridge the gap between education and technology, providing
+a seamless, user-friendly interface that simplifies the management of academic activities.
+
+Mission:
+At The White Board, our mission is to provide a robust, scalable, and innovative platform that supports both teaching
+and learning in a digital-first environment.
+By integrating various educational tools, resources, and functionalities into one central hub, we help institutions streamline administrative
+tasks, improve student engagement, and empower educators to deliver more effective learning experiences.
+
+Our Vision:
+We envision a future where The White Board is at the heart of digital learning, helping educational institutions 
+and their communities to thrive in an ever-changing academic landscape. By providing an integrated platform 
+that combines resources, tools, and communication, we aim to make education more accessible, engaging, and effective.
+
