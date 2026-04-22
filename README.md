@@ -250,4 +250,4 @@ String password = "1234"; // Change this to your MySQL root password
 
 ---
 
-Built as part of an Object-Oriented Programming course at Imam Abdulrahman Bin Faisal University. Team of 7 developers contributing to a 7,000+ line codebase.
+Built as part of an Object-Oriented Programming course at Imam Abdulrahman Bin Faisal University. Team of 5 developers contributing to a 7,000+ line codebase.
